@@ -13,26 +13,27 @@
 ✅ 캠퍼스 맵을 통해 교내 위치를 모르는 공간에 대한 위치 확인 가능 (교내 카페, 학생 식당 등 운영 시간 확인 가능)   
 ✅ 각 시설물에 대한 정보 제공 (시설물 내 구비 물품 멀티탭, 빔 프로젝터 등)   
 ✅ 이용 후 시설물 이용 인증 사진 기능으로 시설물 관리   
+✅ 시설물 예약 및 연장 기능      
 ✅ 리뷰 기능   
 
 ## 🚀 팀 소개   
 1. **이름:** 박준혁   
-   - **학교:** 🏫 울산 대학교   
+   - **학교:** 🏫 울산대학교   
    - **학과:** 💻 IT융합전공   
    - **역할**  🌐 시설관리/etc
 2. **이름:** 유지민   
-   - **학교:** 🏫 울산 대학교   
+   - **학교:** 🏫 울산대학교   
    - **학과:** 💻 IT융합전공   
    - **역할**  🌐 사용자관리/인증관리
 3. **이름:** 지승현   
-   - **학교:** 🏫 울산 대학교   
+   - **학교:** 🏫 울산대학교   
    - **학과:** 💻 IT융합전공   
    - **역할**  🌐 예약관리/시설관리
 4. **이름:** 하태욱   
-   - **학교:** 🏫 울산 대학교   
+   - **학교:** 🏫 울산대학교   
    - **학과:** 💻 IT융합전공   
    - **역할**  🌐 리뷰관리/알림
-## 기술스택   mysql
+## 기술스택   
 ### Environment   
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -43,4 +44,8 @@
 ### Cloud   
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 ### Communication   
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">   
+
+## ERD   
+![image](https://github.com/now-our-school/now-our-school-server/assets/90140865/ed3d7634-5581-4248-95ce-298db362327c)
+
