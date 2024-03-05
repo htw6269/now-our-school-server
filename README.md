@@ -9,7 +9,11 @@
 💻 UMC 5th Backend   
 ✨ UMC 5th DEMODAY  
 📆 2023.12 ~ 2024.02   
-
+### 핵심기능
+✅ 캠퍼스 맵을 통해 교내 위치를 모르는 공간에 대한 위치 확인 가능 (교내 카페, 학생 식당 등 운영 시간 확인 가능)   
+✅ 각 시설물에 대한 정보 제공 (시설물 내 구비 물품 멀티탭, 빔 프로젝터 등)   
+✅ 이용 후 시설물 이용 인증 사진 기능으로 시설물 관리   
+✅ 리뷰 기능   
 
 ## 🚀 팀 소개   
 1. **이름:** 박준혁   
@@ -28,3 +32,12 @@
    - **학교:** 🏫 울산 대학교   
    - **학과:** 💻 IT융합전공   
    - **역할**  🌐 리뷰관리/알림
+## 기술스택   
+### Environment   
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-#000000?style=for-the-badge&logo=github&logoColor=white">
+
+### Development   
+
+### Cloud
+### Communication
