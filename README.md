@@ -51,8 +51,13 @@
 ## ERD   
 <img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/ed3d7634-5581-4248-95ce-298db362327c" alt="이미지 설명" width=800px>
 
-## 홈화면
-![image](https://raw.githubusercontent.com/now-our-school/now-our-school-server/main/assets/90140865/f3bb12e0-0fab-4d55-a4d8-a6acdfec8624.png){width=200px}
+### 홈화면
+<img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/9a9b5b54-b4bc-46a7-a5a1-4e3cc1a22e01" width=200px> <img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/35f00ba8-5ea9-47d8-9460-9856271d7322" width=200px>   
+### 시설물 상세 정보 및 리뷰   
+<img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/00e266ba-0f9c-4df6-b90c-92e096a8aea5" width=200px> <img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/dfcbd3f7-a37c-4222-962e-ed8d9205d63c" width=200px> <img src ="https://github.com/now-our-school/now-our-school-server/assets/90140865/68f2e443-1b04-41ec-a443-ff5d583c79c6" width = 200px>
+### 예약 및 알림
+<img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/7df08559-7082-460e-ae76-c2f550da70b7" width=200px> <img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/a446c85f-199b-4ece-b0ac-968ac8964e56" width=200px> <img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/10586a9c-4e74-4fba-8ad5-be1299b3eaa1" width=200px> <img src="https://github.com/now-our-school/now-our-school-server/assets/90140865/b6b043a1-01b5-4b0d-bbec-7a835a63d9e3" width=200px>
+
 
 
  
