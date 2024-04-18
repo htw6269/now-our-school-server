@@ -33,7 +33,7 @@
 4. **이름:** 하태욱   
    - **학교:** 🏫 울산대학교   
    - **학과:** 💻 IT융합전공   
-   - **역할**  🌐 리뷰관리/알림
+   - **역할**  🌐 리뷰관리/사용자관리
 ## 기술스택   
 ### Environment   
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
