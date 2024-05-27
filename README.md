@@ -1,23 +1,46 @@
-프로젝트의 README.md 파일을 작성하는 데 도움을 드리겠습니다. 아래는 프로젝트의 제목, 설명, 핵심 기능 및 기술 스택에 대한 정보를 종합하여 자세히 작성된 README.md 파일입니다.
-
 # 프로젝트 제목
 
+## 📅개발기간
+2024.01~2024.03
 
+## 👥팀원소개
+### UMC 시설물 관리 프로젝트
 
-## 📜 프로젝트 설명
-이 프로젝트는 학교 시설 예약 서비스의 백엔드 코드입니다. 사용자는 시설을 예약하고 예약된 시설을 관리할 수 있으며, 리뷰를 작성하고 수정하고 삭제할 수 있습니다. 또한 사용자는 시설에 대한 문의를 작성할 수 있으며, 회원 프로필을 업데이트할 수 있습니다. 시설 관리자는 특정 시설에 대한 예약 현황 목록을 확인할 수 있습니다. 또한 시스템은 오늘 기준 이전의 예약 목록을 추출하고 사용자는 현재 이용 중인 예약 정보를 확인할 수 있습니다. 마지막으로 사용자는 예약 가능한 시간대를 확인하고 자신의 예약 내역을 확인할 수 있습니다.
+1. **이름:** 하태욱
+   - **학교:** 🏫울산대학교
+   - **역할:** 🌐백엔드
+2. **이름:** 지승현
+   - **학교:** 🏫울산대학교
+   - **역할:** 🌐백엔드
+
+## 📜 프로젝트 소개
+이 프로젝트는 학교 관리 시스템을 위한 API를 제공합니다. 학생, 교사, 강의 및 성적과 같은 다양한 학사 정보를 관리하기 위한 기능뿐만 아니라 학사 일정, 행사 안내, 공지사항 게시 및 관리를 위한 기능도 포함되어 있습니다.
+
+## 👨‍💻 실행 방법
+1. 이 프로젝트를 클론합니다.
+2. 터미널에서 프로젝트 디렉토리로 이동합니다.
+3. 다음 명령어를 실행하여 서버를 시작합니다.
+   ```bash
+   mvn spring-boot:run
+   ```
 
 ## ✨ 핵심 기능
-1. 사용자는 시설을 예약할 수 있습니다.
-2. 예약된 시설의 예약을 관리할 수 있습니다.
-3. 사용자는 리뷰를 작성하고 수정하고 삭제할 수 있습니다.
-4. 사용자는 시설에 대한 문의를 작성할 수 있습니다.
-5. 사용자는 회원 프로필을 업데이트할 수 있습니다.
-6. 시설 관리자는 특정 시설에 대한 예약 현황 목록을 확인할 수 있습니다.
-7. 시스템은 오늘 기준 이전의 예약 목록을 추출할 수 있습니다.
-8. 사용자는 현재 이용 중인 예약 정보를 확인할 수 있습니다.
-9. 사용자는 예약 가능한 시간대를 확인할 수 있습니다.
-10. 사용자는 자신의 예약 내역을 확인할 수 있습니다.
+- 학생, 교사 및 강의 정보 관리 API 제공
+- 성적 및 출석 관리 API 제공
+- 학사 일정 및 행사 안내 API 제공
+- 학사 공지사항 게시 및 관리 API 제공
 
 ## 🛠️기술 스택
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-BCD32B?style=for-the-badge&logo=Lombok&logoColor=white) ![H2 Database](https://img.shields.io/badge/H2_Database-007396?style=for-the-badge&logo=H2&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-BCB88D?style=for-the-badge&logo=Lombok&logoColor=white)
+
+## 🖥️ 개발 환경
+- IntelliJ IDEA
+- Java 17
+- Spring Boot 2.5.4
+
+## ☁️ 클라우드
+이 프로젝트는 AWS 클라우드 서비스를 사용하여 배포될 예정입니다.
+
+## 📄 추가 문서
+- [API 엔드포인트 및 요청/응답 예시](./api-docs.md)
+- [데이터베이스 스키마](./database-schema.sql)
