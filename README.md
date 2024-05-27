@@ -29,5 +29,3 @@
 
 ## 🛠️기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-BCD32B?style=for-the-badge&logo=Lombok&logoColor=white) ![H2 Database](https://img.shields.io/badge/H2_Database-007396?style=for-the-badge&logo=H2&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
-
-이제 위의 내용을 참고하여 프로젝트의 README.md 파일을 작성하시면 됩니다. 필요에 따라 내용을 추가, 수정하여 완성도 있는 파일을 작성해보세요.
